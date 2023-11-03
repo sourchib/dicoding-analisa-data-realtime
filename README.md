@@ -41,7 +41,8 @@ capture jupyter notebook analisa data :
 
 captute dashboard streamlit :
 ![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/be8bc143-cc1e-4563-bc07-154d0e201089)
-![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/92e5f84b-7ec4-48a1-a085-70a067d562ba)
+![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/d71c208e-14c6-4bad-a64e-48657ee3342f)
+
 ```
 
 Create by Muchammad Muchib Zainul Fikry
