@@ -33,4 +33,15 @@ open browser (localhost:8888) jupyter notebook
 open browser (localhost:8501) streamlit
 ```
 
+## Dokumentasi
+```
+capture jupyter notebook analisa data :
+![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/263fff60-3aa1-4f73-a1d3-1bd8b8af901f)
+![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/a60b4767-41ee-4a7a-987c-270121b244fa)
+
+captute dashboard streamlit :
+![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/be8bc143-cc1e-4563-bc07-154d0e201089)
+![image](https://github.com/sourchib/dicoding-analisa-data-realtime/assets/60887634/92e5f84b-7ec4-48a1-a085-70a067d562ba)
+```
+
 Create by Muchammad Muchib Zainul Fikry
