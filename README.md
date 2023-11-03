@@ -33,4 +33,4 @@ open browser (localhost:8888) jupyter notebook
 open browser (localhost:8501) streamlit
 ```
 
-###Create by Muchammad Muchib Zainul Fikry
+Create by Muchammad Muchib Zainul Fikry
